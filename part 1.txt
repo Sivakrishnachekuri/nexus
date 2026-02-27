@@ -6,7 +6,7 @@ Nexus :
 
 dev1  --> GitHub ---> maven[.war] -----> nexus (to store the artifact)--->  tomcat 
                          .
-dev1 --> GitHub ----> maven [.war] ---> tomcat 
+dev1 --> GitHub ----> maven [.war] ---> tomcat  
 
 
 
